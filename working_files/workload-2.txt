@@ -1,0 +1,4 @@
+/10mb-sample-file-0.mpg
+/10mb-sample-file-1.txt
+/10mb-sample-file-2.mpg
+/10mb-sample-file-3.mpg
